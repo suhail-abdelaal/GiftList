@@ -12,7 +12,7 @@ async function main() {
   const root = merkleTree.getRoot();
 
   // Name to prove
-  const name = "Suahil Mahmoud";
+  const name = "Suhail Mahmoud";
 
   // Getting the proof
   const index = niceList.findIndex(n => n === name);
