@@ -1,6 +1,6 @@
 # Gift List
 
-To get started with the repository, clone it and then run `npm install` in the top-level directory to install the depedencies.
+Gift list is an assignment project from Ethereum Developer Boot Camp by [Alchemy](https://university.alchemy.com/home). To get started with the repository, clone it and then run `npm install` in the top-level directory to install the depedencies.
 
 There are three folders in this repository:
 
